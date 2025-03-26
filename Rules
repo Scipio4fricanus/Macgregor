@@ -1,3 +1,4 @@
+'test
 Const bWriteNoInputToFile = False
 
 Const bWriteNoInputResultsToDB_InsteadOfTxtFile = True
